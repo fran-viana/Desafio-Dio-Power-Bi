@@ -41,6 +41,6 @@ Além disso, foram aplicadas boas práticas como:
 - Uso de mapas geográficos no Power BI
 - Aplicação de boas práticas de layout
 - Publicação e compartilhamento de projetos
-
-
+ ## Captura de tela dashboard 
+https://github.com/fran-viana/Desafio-Dio-Power-Bi/blob/main/Captura%20de%20tela%20dashboard%20power%20bi.png
 
